@@ -1,6 +1,6 @@
 # vue-cli
 
-> A Vue.js project
+> A Vue.js project to practice Components and all I've learned so far.
 
 ## Build Setup
 
